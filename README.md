@@ -11,7 +11,7 @@
 ###### A: Modify 23 string and wait for email. Then modify config.json file and just type /login in Terraria.
 
 ###### Q: Is it legal?
-###### A: No, it isn't.
+###### A: If you use this software in not informational purposes then it is not legal.
 
 ###### Q: Can I hack user accounts with this software?
 ###### A: You can, but you shouldn't do this.
