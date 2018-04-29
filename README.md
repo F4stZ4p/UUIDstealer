@@ -18,3 +18,7 @@
 
 ###### Q: How do I hide my password and source code?
 ###### A: Use Advanced BAT to EXE converter.
+
+## Credits
+###### Program written by F4stZ4p
+###### Thanks to ql_didar for string data to var code (http://www.cyberforum.ru/cmd-bat/thread909188.html)
