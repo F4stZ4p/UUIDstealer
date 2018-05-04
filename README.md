@@ -22,6 +22,6 @@
 ## Credits
 ###### Program written by F4stZ4p
 ###### Thanks to Discord (file keeping).
-###### Thanks to ql_didar for string data to var code (http://www.cyberforum.ru/cmd-bat/thread909188.html).
+###### Thanks to ql_didar for string data to var code ([click](http://www.cyberforum.ru/cmd-bat/thread909188.html "Cyberforum")).
 ###### Thanks to SwithMail (E-Mail sending function).
 ###### Thanks to GMail (SSL E-Mail service).
